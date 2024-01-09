@@ -1,7 +1,7 @@
 # Data Analytics Certification Portfolio
 
 ## Overview
-Welcome to my repository showcasing the culmination of my Data Analytics certification journey at Great Lakes Institute of Management (July 2023 - December 2023). This repository serves as a compilation of projects completed during this certification, highlighting my proficiency in a variety of analytical tools and techniques, including Excel, Python, SQL, PowerBI, and Tableau.
+Welcome to my repository showcasing the culmination of my Data Analytics certification journey at Great Lakes Institute of Management. This repository serves as a compilation of projects completed during this certification, highlighting my proficiency in a variety of analytical tools and techniques.
 
 ## Certification Details
 - **Institution**: Great Lakes Institute of Management
